@@ -1,1 +1,1 @@
-This repository includes my personal/school projects that I have created/worked on.
+This project is a assembly language MIPS dungeon game that is runnable on the "QTSpim" application.
